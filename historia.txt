@@ -1,3 +1,4 @@
 Primera versión del commit V1 -- 20:04 16-07-2022
 commit V2 -- 20:24 16-07-2022
 commit V3 -- 17-07 10:01 am
+txt v4 -- 
